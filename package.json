@@ -47,12 +47,12 @@
     "safe-buffer": "^5.1.0"
   },
   "devDependencies": {
-    "browserify": "^14.1.0",
+    "browserify": "^15.0.0",
     "nyc": "^11.0.2",
     "prebuild": "^6.0.0",
     "prebuild-ci": "^2.2.0",
     "proxyquire": "^1.7.10",
-    "standard": "^10.0.2",
+    "standard": "^13.0.0",
     "tape": "^4.5.1"
   },
   "engines": {
